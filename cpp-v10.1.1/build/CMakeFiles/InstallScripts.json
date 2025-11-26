@@ -1,8 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"D:/code/woflang-alpha-r/cpp-v10.1.1/build/cmake_install.cmake",
-		"D:/code/woflang-alpha-r/cpp-v10.1.1/build/plugins/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
